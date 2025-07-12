@@ -10,7 +10,6 @@ public class VoteItem {
 
     private String name;
 
-    // Constructors
     public VoteItem() {
     }
     public VoteItem(String name) {
